@@ -1,3 +1,3 @@
 # This is a repository to test git-autosync
 
-## v-3.2
+## v-3.5
